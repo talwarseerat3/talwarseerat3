@@ -50,7 +50,7 @@ Tech Stack: **Node.js, Express, MongoDB**, etc.
 ---
 
 ## 📫 Contact Me
-- 📧 Email: your.email@example.com  
+- 📧 Email: talwarseerat3@gmail.com
 - 🔗 LinkedIn: [Your Profile](#)  
 - 🌐 Portfolio Website: Coming Soon!
 
